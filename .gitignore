@@ -199,6 +199,8 @@ terraform.rc
 
 # Data
 **/data/
+**/*_data/
+
 
 # MacOS
 .DS_Store
