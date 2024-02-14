@@ -212,3 +212,7 @@ terraform.rc
 # IPython
 profile_default/
 ipython_config.py
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
