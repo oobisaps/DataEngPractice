@@ -197,6 +197,9 @@ terraform.rc
 # Access keys
 *.json
 
+# CSV files
+*.csv
+
 # Data
 **/data/
 **/*_data/
